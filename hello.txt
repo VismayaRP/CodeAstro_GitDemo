@@ -7,8 +7,5 @@ third
 local change
 another local change
 test
-<<<<<<< HEAD
 testing again
-=======
 boo
->>>>>>> a95536683fad15ddbe796a1c168f75ffb571b98b
