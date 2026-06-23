@@ -9,3 +9,5 @@ another local change
 test
 testing again
 boo
+
+# This is a feature now!
